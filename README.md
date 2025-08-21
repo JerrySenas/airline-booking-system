@@ -19,7 +19,7 @@
  10. [Appendices](#12-appendices)
 
 ## 3. Introduction
- - **Purpose**: 
+ - **Purpose**: To create an airline booking system.
  - **Scope**:
  - **Definitions, Acronyms, and Abbreviations**:
  - **References**: 
